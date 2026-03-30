@@ -113,5 +113,5 @@ If you have questions or requests about this Privacy Policy:
 
 - Company: **Binimise Labs Private Limited**
 - Email: **<support@binimise.com>**
-- Address: **\Plot No. 402, Paika Nagar Lane 1, Unit 8, Bhubaneswar, Odisha, 751008**
+- Address: **Plot No. 402, Paika Nagar Lane 1, Unit 8, Bhubaneswar, Odisha, 751008**
 
