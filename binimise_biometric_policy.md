@@ -2,7 +2,7 @@
 
 **App Name:** Liveness Example — Face Liveness & Matching  
 **Last Updated:** June 29, 2026  
-**Developer:** Sushant Kumar (sushanta.97.behera@gmail.com)
+**Developer:** Binimise Teams
 
 ---
 
@@ -79,7 +79,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 If you have any questions or concerns about this Privacy Policy or data practices, please contact us:
 
-**Email:** sushanta.97.behera@gmail.com
+**Email:** susupport@binimise.com
 
 ---
 
